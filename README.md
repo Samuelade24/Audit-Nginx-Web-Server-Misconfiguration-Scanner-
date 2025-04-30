@@ -90,18 +90,15 @@ function Main {
 
 Main
 
-Security Considerations
+Security Considerations:
+
 Always obtain proper authorization before scanning
-
 Stealth mode uses slower scan techniques to avoid detection
-
 Includes automatic rate limiting to prevent network congestion
-
 Clearly marks potentially risky findings in reports
 
 
-
-Risk Assessment Matrix
+Risk Assessment Matrix:
 
 Finding	Risk Level	Recommended Action
 Open HTTP port (80)	Medium	Implement HTTPS

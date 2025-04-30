@@ -85,9 +85,6 @@ An "informational" finding like /favicon.ico (200 OK) became critical when linke
 Documentation is Key
 Raw PCAPs and timestamped logs (gobuster_scan.log) were crucial for evidence validation.
 
-🚨 Risk Matrix
-
-
 🛡️ Remediation Roadmap
 Immediate (24h):
 Disable default accounts + enforce MFA
@@ -121,7 +118,7 @@ Cleartext PII Transmission	Critical	Wireshark Capture
 /CVS Directory Listing	High	Directory Tree
 
 🚨 Risk Matrix
-![Image Alt](image_url)
+![Image Alt](deepseek_mermaid_20250430_30bc87.png)
 
 🛡️ Remediation Roadmap
 Immediate Actions:

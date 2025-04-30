@@ -99,14 +99,12 @@ Includes automatic rate limiting to prevent network congestion
 
 Clearly marks potentially risky findings in reports
 
+
+
 Risk Assessment Matrix
 
 Finding	Risk Level	Recommended Action
-
 Open HTTP port (80)	Medium	Implement HTTPS
-
 Outdated service version	High	Update service
-
 Unencrypted services	Critical	Enable encryption
-
 Unexpected open ports	Medium	Review firewall rules
